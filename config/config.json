@@ -1,0 +1,27 @@
+{
+  "development": {
+    "username": "admin",
+    "password": "beted7wG",
+    "database": "sys",
+    "host": "mysql-131710-0.cloudclusters.net",
+    "dialect": "mysql",
+    "timezone": "+07:00"
+  },
+  "test": {
+    "username": "admin",
+    "password": "beted7wG",
+    "database": "sys",
+    "host": "mysql-131710-0.cloudclusters.net",
+    "dialect": "mysql",
+    "timezone": "+07:00"
+  },
+  "production": {
+    "username": "admin",
+    "password": "beted7wG",
+    "database": "sys",
+    "host": "mysql-131710-0.cloudclusters.net",
+    "dialect": "mysql",
+    "timezone": "+07:00"
+  }
+  
+}
